@@ -22,7 +22,6 @@ setup(
         "datasets",
         "faiss-cpu==1.7.3",
         "bert_score",
-        "fasttext",
         "pandas",
         "joblib",
     ],
